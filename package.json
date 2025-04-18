@@ -1,0 +1,21 @@
+{
+  "name": "playwright_api_petstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.1",
+    "prettier": "^3.5.3"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.14",
+    "http-status-codes": "^2.3.0",
+    "ts-jest": "^29.3.2"
+  }
+}
